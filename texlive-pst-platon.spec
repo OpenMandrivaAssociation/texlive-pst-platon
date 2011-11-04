@@ -50,6 +50,7 @@ views of the five Platonic solids.
 %doc %{_texmfdistdir}/doc/generic/pst-platon/pst-platon-doc.tex
 #- source
 %doc %{_texmfdistdir}/source/generic/pst-platon/Makefile
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -60,3 +61,5 @@ views of the five Platonic solids.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
