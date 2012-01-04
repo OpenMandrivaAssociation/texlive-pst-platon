@@ -6,7 +6,7 @@
 # catalog-version 0.01
 Name:		texlive-pst-platon
 Version:	0.01
-Release:	1
+Release:	2
 Summary:	Platonic solids in PSTricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-platon
