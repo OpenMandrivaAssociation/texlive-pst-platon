@@ -1,6 +1,6 @@
 Name:		texlive-pst-platon
 Version:	16538
-Release:	1
+Release:	2
 Summary:	Platonic solids in PSTricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-platon
