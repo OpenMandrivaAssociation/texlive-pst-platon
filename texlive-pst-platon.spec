@@ -3,7 +3,7 @@ Version:	16538
 Release:	2
 Summary:	Platonic solids in PSTricks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-platon
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-platon
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-platon.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-platon.doc.r%{version}.tar.xz
